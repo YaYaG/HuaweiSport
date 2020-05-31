@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HuaweiSportView">
+        <attr name="outColor" format="color"/>
+        <attr name="intColor" format="color"/>
+        <attr name="sportSize" format="dimension"/>
+        <attr name="sportNum" format="integer"/>
+        <attr name="maxSportNum" format="integer"/>
+        <attr name="sportText" format="string"/>
+        <attr name="strokeWidth" format="dimension"/>
+    </declare-styleable>
+
+</resources>
